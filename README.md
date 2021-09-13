@@ -20,7 +20,7 @@ Un sitio web para una ONG que necesite poder dar a conocer mascotas en adopción
 ------------
 
 #### Nuestra documentación del proyecto
-[Fase 1 del Proyecto de cátedra](http://https://docs.google.com/document/d/1BmDUyk4BDoo-VdYKjLywkzdsoc9GkQyH5Q2GreOyPhA/edit "Fase 1 del Proyecto de cátedra")
+[Fase 1 del Proyecto de cátedra](https://docs.google.com/document/d/1BmDUyk4BDoo-VdYKjLywkzdsoc9GkQyH5Q2GreOyPhA/edit?usp=sharing "Fase 1 del Proyecto de cátedra") 
 
 
 ------------
