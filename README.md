@@ -13,7 +13,7 @@ Un sitio web para una ONG que necesite poder dar a conocer mascotas en adopción
 
 
 #### Enlaces importantes
-[WorkFlow en Notion](http://https://mercury-elf-107.notion.site/Workflow-proyecto-de-c-tedra-3a34acde2e964a62ae32d032fe7cb68b "WorkFlow en Notion")
+[WorkFlow en Notion](https://mercury-elf-107.notion.site/Workflow-proyecto-de-c-tedra-3a34acde2e964a62ae32d032fe7cb68b "WorkFlow en Notion")
 
 [Diseño UX/UI en Figma](http://www.figma.com/file/wpSWRhkgUFYan9KjOdPXUU/Proyecto-de-catedra?node-id=0%3A1 "Diseño UX/UI en Figma")
 
