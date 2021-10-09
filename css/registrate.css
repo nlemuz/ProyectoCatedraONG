@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Edo SZ';
+    src: url('../fuentes/edosz.ttf');
+}
+
+body, html {
+    background-image: url(https://i.ibb.co/vYmB8VC/front-view-of-beautiful-dog-with-copy-space-3.jpg);
+    height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Edo SZ';
+    font-size: 4vw;
+}
+
+.formulario {
+    padding-left: 8em;
+    padding-top: 3em;
+}
