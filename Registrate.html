@@ -12,20 +12,29 @@
 
 <body>
     <main>
-        <div class="row">
-            <div class="col-md-4">
-                <h1>¡Bienvenido!</h1>
-                <p class="parrafo1">Ingresa tus datos para comenzar.</p>
-                <form action="">
-                    <label for="nombre">
-                        <p>Nombre completo:</p>
-                        <input type="text" placeholder="Escriba su nombre completo" required>
-                    </label>
-                </form>
-            </div>
+        <div class="formulario">
+            <h1>¡Bienvenido!</h1>
+            <p class="parrafo1">Ingresa tus datos para comenzar.</p>
+            <form action="">
+                <label for="nombre">
+                    <p class="texto">Nombre completo:</p>
+                    <input type="text" class="form_input" placeholder="Escriba su nombre completo" required>
+                </label>
+                <label for="teléfono">
+                    <p class="texto">Telefono:</p>
+                    <input type="number" class="form_input" placeholder="Digite su número teléfono" required>
+                </label>
+                <label for="correo">
+                    <p class="texto">Correo Electrónico:</p>
+                    <input type="email" class="form_input" placeholder="Escriba su correo electrónico" required>
+                </label>
+                <label for="contrasena">
+                    <p class="texto">Contraseña:</p>
+                    <input type="text" class="form_input" placeholder="Escriba una contraseña" required>
+                </label> <br> <br>
+                <input type="submit" class="boton_enviar" value="Registrarse">
+            </form>
         </div>
-
-
     </main>
 </body>
 

@@ -17,16 +17,48 @@ body, html {
 h1 {
     font-family: 'Edo SZ';
     font-size: 4vw;
-    text-align: center;
+    text-align: left;
 }
 
-.col-md-4 {
+.formulario {
     padding-left: 8em;
     padding-top: 3em;
 }
 
 .parrafo1 {
     font-family: 'Roboto', sans-serif;
-    text-align: center;
+    text-align: left;
+    padding-bottom: 1rem;
+}
+
+.texto {
+    
+}
+
+.boton_enviar {
+    border-radius: 5px;
+    padding: 10px 24px;
+    padding-top: 0.8rem;
+    background-color: #A13842;
+    border: none;
+    border-bottom: 0.3rem solid transparent;
+    color: white;
+    transition: all 0.5s;
+    margin-bottom: 3em;
+}
+
+.form_input {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  font-size: 0.8rem; 
+  padding: 0.5rem 1rem;
+  padding-top: 0.8rem;
+  border-radius: 0.2rem;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  width: 30%;
+  display: block;
+  border-bottom: 0.3rem solid transparent;
+  transition: all 0.3s;
 }
 
